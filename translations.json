@@ -267,7 +267,7 @@
     "profileUpdated": "Profil został zaktualizowany",
     "promo": "Promo",
     "publicTournament": "Turniej publiczny",
-    "publicTournamentTip": "Oznacza to, że turniej można znaleźć w wyszukiwarce. Odznacz tę opcję, aby turniej był niepubliczny. Wtedy uczestnicy muszą otrzymać link aby dołączyć do turneju.",
+    "publicTournamentTip": "Oznacza to, że turniej można znaleźć w wyszukiwarce. Odznacz tę opcję, aby turniej był niepubliczny. Wtedy uczestnicy muszą otrzymać link aby dołączyć do turnieju.",
     "qf": "Ćwierćfinał",
     "r16": "1/8 finału",
     "r32": "1/16 finału",
@@ -820,7 +820,7 @@
     "dontHaveAccount": "Немає облікового запису?",
     "downloadQr": "Завантажити QR-код",
     "draw": "сітка",
-    "drawSeedingTip": "Якщо ви не виберете жодного учасника для нижньої сітки, вона не буде розігруватися. Якщо ви не виберете парну кількість учасників для певної сітки, тоді найкращі гравці отримають вільний прохід."
+    "drawSeedingTip": "Якщо ви не виберете жодного учасника для нижньої сітки, вона не буде розігруватися. Якщо ви не виберете парну кількість учасників для певної сітки, тоді найкращі гравці отримають вільний прохід.",
     "drawStageTip": "Система запропонувала розсіювання за результатами в групі, але ви можете змінити його на свій розсуд. Перетягніть учасника, щоб змінити розсіювання.",
     "draws": "сітки",
     "edit": "Редагувати",
