@@ -2,6 +2,7 @@
   "pl": {
     "about": "O aplikacji",
     "acceptText": "Rejestrując się akceptujesz",
+    "account": "Konto",
     "activation": "Aktywacja",
     "activationError": "Błąd aktywacji konta",
     "activationSuccess": "Twoje konto zostało aktywowane. Możesz się teraz zalogować.",
@@ -228,6 +229,7 @@
     "nothingFound": "Nic nie znaleziono. Zmień kryteria wyszukiwania.",
     "nothingHere": "Ups, nic tu nie ma!",
     "objectValidationError": "Błąd walidacji danych.",
+    "onlinePayment": "Płatność online",
     "open": "Otwarty",
     "ordinalNumber": "L.p.",
     "organization": "Organizacja",
@@ -384,6 +386,7 @@
   "en": {
     "about": "About",
     "acceptText": "By registering you accept",
+    "account": "Account",
     "activation": "Activation",
     "activationError": "Account activation error",
     "activationSuccess": "Your account has been activated. You can now log in.",
@@ -610,6 +613,7 @@
     "nothingFound": "Nothing found. Change search criteria.",
     "nothingHere": "Oops, nothing here!",
     "objectValidationError": "Data validation error.",
+    "onlinePayment": "Online payment",
     "open": "Open",
     "ordinalNumber": "No.",
     "organization": "Organization",
@@ -766,6 +770,7 @@
   "uk": {
     "about": "Про додаток",
     "acceptText": "Реєструючись, ви приймаєте",
+    "account": "Обліковий запис",
     "activation": "Активація",
     "activationError": "Помилка активації облікового запису",
     "activationSuccess": "Ваш обліковий запис активовано. Тепер ви можете увійти.",
@@ -992,6 +997,7 @@
     "nothingFound": "Нічого не знайдено. Змініть критерії пошуку.",
     "nothingHere": "Упс, тут нічого немає!",
     "objectValidationError": "Помилка валідації даних.",
+    "onlinePayment": "Онлайн-оплата",
     "open": "Відкритий",
     "ordinalNumber": "№",
     "organization": "Організація",
